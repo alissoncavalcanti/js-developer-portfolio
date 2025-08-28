@@ -9,10 +9,27 @@
     justify-content: flex-start;
     align-items: start;
     flex-wrap: wrap;
-    gap:1rem;
+    gap:2rem;
     margin: 0;
     padding: 0;
     list-style: none;
+}
+
+.skills-description {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.skills-description h3,p {
+    margin: 0px;
+}
+
+.skills-general {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
 }
 
 .skills .tools ul li img {
