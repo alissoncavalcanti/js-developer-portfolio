@@ -5,10 +5,11 @@
 
 .skills .tools ul {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
-    align-items: center;
+    align-items: start;
     flex-wrap: wrap;
+    gap:1rem;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -22,7 +23,7 @@
 
 .skills .personal ul {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;

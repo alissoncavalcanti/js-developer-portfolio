@@ -9,23 +9,28 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/javascript.svg",
+        "description": "X"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/html.svg"
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/html.svg",
+        "description": "X"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/css.svg"
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/css.svg",
+        "description": "X"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/git.svg"
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/git.svg",
+        "description": "X"
       },
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/github.svg"
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/github.svg",
+        "description": "X"
       }
     ],
     "softSkills": [
