@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/javascript.svg",
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/mainassets/img/icons/tools/NEW/javascript.svg",
         "description": "Conhecimento iniciante, com vivência em funções e demais especificidades, desenvolvidas em cursos da DIO."
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/html.svg",
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/mainassets/img/icons/tools/NEW/html.svg",
         "description": "Domínio intermediário, com conhecimento em flexbox, grid layout e mais."
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/css.svg",
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/mainassets/img/icons/tools/NEW/css.svg",
         "description": "Conhecimento avançado, desenvolvido em vivência como Front-End e UX Designer."
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/git.svg",
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/mainassets/img/icons/tools/NEW/git.svg",
         "description": "Desenvolvimento de conhecimentos para gerenciamento de arquivos de forma colaborativa."
       },
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/main/assets/img/icons/tools/NEW/github.svg",
+        "logo": "https://raw.githubusercontent.com/alissoncavalcanti/js-developer-portfolio/refs/heads/mainassets/img/icons/tools/NEW/github.svg",
         "description": "Conclusão de cursos com conhecimentos em colaboração de projetos."
       }
     ],
