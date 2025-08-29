@@ -1,16 +1,17 @@
 .languages {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: start;
     flex-wrap: wrap;
     margin: 0;
     padding: 0;
     list-style: none;
+    gap: .8rem;
 }
 
 .languages li {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     padding-right: 1rem;
     font-weight: 700;
